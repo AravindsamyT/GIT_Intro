@@ -1,2 +1,3 @@
 Introduction to GIT
 Creation of text file
+First commit done successfully. changed the file and gonna give second commit.
