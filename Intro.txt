@@ -3,3 +3,4 @@ Creation of text file
 First commit done successfully. changed the file and gonna give second commit.
 
 Hi. This is Nidhi and i got the file.
+Hi. I am Mayank and I am able to modify.
